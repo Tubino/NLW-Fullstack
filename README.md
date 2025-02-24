@@ -33,8 +33,11 @@ Ao desenvolver esse projeto, coloquei em prática aprendizados recentes sobre Ja
 
 **1 - Tela da aplicação onde o usuário faz a inscrição para o evento**
 
+![tela 1](./Assets/preview_1.png)
 <br>
 
 ---
 
 **2 - Tela onde o usuário recebe a confirmação de inscrição e o link de referência para indiccar outras pessoas e o número de inscrições.**
+
+![tela 2](./Assets/preview_2.png)

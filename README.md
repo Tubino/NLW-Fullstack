@@ -1,4 +1,4 @@
-# 19º NLW Conect - Trilha Fullstack
+# 19º NLW Connect - Trilha Fullstack
 
 ## 🔍 Visão geral
 
